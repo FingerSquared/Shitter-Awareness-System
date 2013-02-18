@@ -12,4 +12,13 @@ Parts List
 - 2x Hook-up wire spool red 25': https://www.sparkfun.com/products/8023
 - 2x Hook-up wire spool yellow 25': https://www.sparkfun.com/products/8024
 - 1x Hook-up wire spool white 25': https://www.sparkfun.com/products/8026
+- 1x Hall effect sensor: https://www.sparkfun.com/products/9312
+- 1x Parallax Ping sensor: http://www.radioshack.com/product/index.jsp?productId=12326359
+- 1x Miniature magnetic contact switch: http://amzn.com/B001337AO2
+- 1x Large plastic project enclosure, weatherproof: https://www.adafruit.com/products/905
+- 1x Grommet 1/4" inner diameter: http://www.lowes.com/webapp/wcs/stores/servlet/ProductDisplay?langId=-1&storeId=10151&catalogId=10051&productId=3013200&cId=
+
+Tools List
+----------
+
 - 1x Wire strippers: https://www.sparkfun.com/products/8696
